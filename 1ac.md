@@ -30,3 +30,23 @@ Link: Plan stops
 
 Mpx: Money/Power/Freedom/Lives
 	Evidence
+	
+Rebuttals!!
+
+Arg: Neonics are not dangerous
+Rebutt: See advantage 1.
+
+Arg: Bee population stable for years
+Rebutt: Sure, that may be true, but if we keep using these pesticides, those numbers could plummet to an all-time low. We want to prevent this disaster from happening, not by having it happen! Thus we should ban neonics before the bees all die.
+
+Arg: If neonics are banned, people will switch to more deadly pesticides
+Rebutt: First off, neonics are considered just a cheap insurance for expensive seeds. If they’re cheap, farmers might just be better off without them. (see next argument rebuttal)
+
+Arg: Farmers can’t live without neonics
+Rebutt: Now, this piece of evidence from the USEPA (united states environmental protection agency) says, QUOTE (in March 2015)
+“This analysis provides evidence that U.S. soybean growers derive limited to no benefit from neonicotinoid seed treatments in most instances.  Published data indicate that most usage of neonicotinoid seed treatments does not protect soybean yield any better than doing no pest control. Given that much of the reported seed treatment usage in the U.S. on soybeans is not associated with a target pest, BEAD [the Biological and Economic Analysis Division] concludes that much of the observed use is preventative and may not be currently providing any actual pest management benefits.”
+This evidence clearly says that neonics are quite useless against pests, but have a large impact on bees, humans, and even birds.
+
+Arg: 31% environmental budget cut
+Rebutt: The USDA, in 2014, provided 8 million US dollars just to help boost the declining bee population. If the government is willing to give that much just to encourage bees, imagine how much could be achieved if the government realizes that these pesticides are seeping into our drinking water, wreaking havoc on the human body’s nervous system. 
+
